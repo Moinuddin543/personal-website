@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.name-highlight{
+    color: #e42e61;
+    font-weight:800;
+}
+
+p{
+    color: dimgray;
+}
+
+section{
+    height:600px ;
+    padding-bottom:250px ;    
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%; 
+}
+
+.half-width img{
+    width:70%;
+    padding-top:50px;
+}
+
+.header-bg{
+    background-image:url("images/header-bg.png") ;
+     background-position: bottom;
+    padding-bottom: 50px;
+    height: 700px;
+} 
+
+.biography-bg{
+    background-image:url("images/biography-bg.png") ;
+    padding-bottom: 50px;
+    height: 800px;
+    background-position: right;
+}
+
+.latest-work-bg{
+    background-image: url("images/latest-work-bg.png");
+    padding-bottom: 40px;
+    height: 700px;
+    background-position: right;
+}
+
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    padding-bottom: 50px;
+    background-position: right; 
+    height: 700px;
+    text-align:center;
+}
+
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    background-color:#ec4c7a;
+}
+
+.last-link-button{
+    text-decoration: none;
+    color: white;
+    background-color: #ec4c7a;
+    padding: 20px 120px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.button-text {
+    color:white;
+ } 
+
+.center-text{
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.column {
+    width: 33.33%;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+*{
+    box-sizing: border-box;     
+}
+
+#paragraph-color{
+    color:black ;
+    width:40%;
+    margin:40px auto 60px;
+}
+
+footer {
+    text-align: center;
+}
+
+.email-highlight {
+    font-weight:70px;
+    font-size: x-large;
+}
+
+footer{
+    font-size: 0.90rem;
+}
+
+a:hover {
+	background-color: #e42e61;
+}
+
+
+
+
+
